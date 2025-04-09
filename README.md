@@ -25,7 +25,7 @@
 
 📌 **LinkedIn:**
 
-[![LinkedIn](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=layanne-sousa-ab64bb336/) 
+[![LinkedIn](https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=layanne-sousa-ab64bb336) 
 
 
 
