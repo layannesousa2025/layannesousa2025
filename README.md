@@ -1,9 +1,9 @@
 # Olá, eu sou Layanne
 - 👩 Atualmente Sou Estudante De Análise De Desenvolvimento Sistema.
-- 🧑🏿‍💻 Frequentado Facudade Tecnologo e Tecnico no Senac DF e Estacio.
-- ☺️Atenciomente e aprofundamete ansiosa para aprender novas tecnologias Futuras.
+- 🧑🏿‍💻 Frequentado Facudade Tecnologo e Tecnico no Senac DF e Estácio.
+- ☺️ Aprofundamete ansiosa para aprender Novas Tecnologias Futuras.
 - ☕Iniciante na Area deste 2024,Me Aprofundando na Programação nas areas Frond-end,Back-end,Banco de Dados e entre outros.
-- Linguagem aprendindas no momento 👇...
+- Linguagem Aprendindas No Momento 👇...
 
 
  <div style="display: inline_block">
