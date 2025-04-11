@@ -2,7 +2,7 @@
 - 👩 Atualmente Sou Estudante De Análise De Desenvolvimento Sistema.
 - 🧑🏿‍💻 Frequentado Facudade Tecnologo e Tecnico no Senac DF e Estacio.
 - ☺️Atenciomente e aprofundamete ansiosa para aprender novas tecnologias Futuras.
-- ☕Iniciante na Area deste 2024,Aprofundando na Programação nas areas Frond-end,Back-end,Banco de Dados e entre outros.
+- ☕Iniciante na Area deste 2024,Me Aprofundando na Programação nas areas Frond-end,Back-end,Banco de Dados e entre outros.
 - Linguagem aprendindas no momento 👇...
 
 
@@ -34,6 +34,9 @@
    
 </div>
 
+## 🐍 My GitHub Snake
+
+![Snake animation](https://raw.githubusercontent.com/EdielsonSolidade/EdielsonSolidade/output/github-contribution-grid-snake-radical.svg)
 
 
 
