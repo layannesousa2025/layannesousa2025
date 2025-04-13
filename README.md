@@ -34,9 +34,9 @@
   <a href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=layanne-sousa-ab64bb336" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
 </div>
-##
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=layannesousa2025&layout=compact&count_private=true&theme=wither-green&title_color=de3163)](#)
+
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=layannesousa2025&layout=compact&count_private=true&theme=wither-green&title_color=de3163)](#)
 
 [![Lay github stats](https://bad-apple-github-readme.vercel.app/api?username=Layannesousa2025&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=wither-green&title_color=de3163)](#)
 
