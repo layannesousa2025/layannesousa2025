@@ -34,6 +34,7 @@
   <a href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=layanne-sousa-ab64bb336" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
 </div>
+##
 
 [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=layannesousa2025&layout=compact&count_private=true&theme=wither-green&title_color=de3163)](#)
 
