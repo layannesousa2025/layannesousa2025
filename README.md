@@ -1,6 +1,5 @@
-⁷# Olá, eu sou Layanne
+# Olá, eu sou Layanne
 - 👩 Técnica Análise De Desenvolvimento Sistema.
-- ☺️ Aprofundamete ansiosa para aprender Novas Tecnologias Futuras.
 - ☕Iniciante na Area deste 2024,Me Aprofundando na Programação nas areas Frond-end,Back-end,Banco de Dados e entre outros.
 - Linguagem Aprendindas No Momento 👇...
 
