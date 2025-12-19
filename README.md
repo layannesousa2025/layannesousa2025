@@ -1,6 +1,6 @@
-# Olá, eu sou Layanne
-- 👩 Técnica Análise De Desenvolvimento Sistema.
-- ☕Iniciante na Area deste 2024,Me Aprofundando na Programação nas areas Frond-end,Back-end,Banco de Dados e entre outros.
+# Olá, eu me chamo Layanne
+- 👩 Atualmente Formada como Técnica em Análise De Desenvolvimento Sistema.
+- ☕Iniciante na Área deste 2024,Me Aprofundando nós conceitos fundamentais desenvolvidas.
 - Linguagem Aprendindas No Momento 👇...
 
 
