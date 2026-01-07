@@ -1,7 +1,8 @@
-# Olá, eu me chamo Layanne
-- 👩 Atualmente Formada como Técnica em Análise De Desenvolvimento Sistema.
+# Olá, Sou Layanne_Sousa
+- 👩‍🎓 Atualmente Formada como Técnica em Análise De Desenvolvimento Sistema.
 - ☕Iniciante na Área deste 2024,Me Aprofundando nós conceitos fundamentais desenvolvidas.
-- Linguagem Aprendindas No Momento 👇...
+- Linguagem: PHP,bootstrap
+- 👇...
 
 
  <div style="display: inline_block">
@@ -9,11 +10,9 @@
   <img align="center" alt="lay-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="lay-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="lay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="lay-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lay-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
-   <img align="center" alt="lay-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="lay-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-  </div>
+ </div>
 
   ##
   ## 🧰 Tools Used
