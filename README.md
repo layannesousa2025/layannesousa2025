@@ -1,8 +1,8 @@
 # Olá, Sou Layanne_Sousa
 - 👩‍🎓 Atualmente Formada como Técnica em Análise De Desenvolvimento Sistema.
 - ☕Iniciante na Área deste 2024,Me Aprofundando nós conceitos fundamentais desenvolvidas.
-- Linguagem: PHP,bootstrap
-- 👇...
+- Linguagem: javascript,htm,css,PHP,bootstrap
+  
 
 
  <div style="display: inline_block">
