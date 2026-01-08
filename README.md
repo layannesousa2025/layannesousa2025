@@ -21,8 +21,7 @@
 ### ⚙️ Automação
 - JavaScript  
 - HTML  
-- CSS  
-- Bootstrap  
+- CSS   
 
 ### 🖥️ Back-end / Base
 - PHP  
