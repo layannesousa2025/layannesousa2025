@@ -12,7 +12,7 @@
 
 ## 💻 Tecnologias e ferramentas em estudo
 
-### 🧪 Testes & QA
+### 🧪 QA
 - Testes manuais  
 - Casos de teste  
 - Cenários de teste  
