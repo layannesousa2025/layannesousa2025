@@ -1,6 +1,6 @@
-#👋 Olá, sou Layanne Sousa
+ ##👋 Olá, sou Layanne Sousa
 
-👩‍🎓 Técnica em Análise e Desenvolvimento de Sistemas.
+  ##👩‍🎓 Técnica em Análise e Desenvolvimento de Sistemas.
 
 🧪 Atuação e estudos focados em Qualidade de Software (QA), com interesse em Automação de Testes e Inteligência Artificial aplicada à qualidade.
 
