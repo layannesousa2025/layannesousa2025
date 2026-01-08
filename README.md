@@ -1,22 +1,36 @@
- ##👋 Olá, sou Layanne Sousa
+# 👋 Olá, sou Layanne Sousa
 
-  ##👩‍🎓 Técnica em Análise e Desenvolvimento de Sistemas.
+👩‍🎓 **Técnica em Análise e Desenvolvimento de Sistemas**
 
-🧪 Atuação e estudos focados em Qualidade de Software (QA), com interesse em Automação de Testes e Inteligência Artificial aplicada à qualidade.
+🧪 Atuação e estudos focados em **Qualidade de Software (QA)**, com interesse em **Automação de Testes** e **Inteligência Artificial aplicada à qualidade**.
 
-☕ Na área de tecnologia desde 2024, desenvolvendo base sólida em testes de software, lógica de programação e boas práticas de desenvolvimento.
+☕ Na área de tecnologia desde **2024**, desenvolvendo uma base sólida em **testes de software, lógica de programação** e **boas práticas de desenvolvimento**.
 
-🤖 Em constante aprendizado sobre IA aplicada a testes, automação e análise de qualidade.
+🤖 Em constante aprendizado sobre **IA aplicada a testes, automação e análise de qualidade**.
 
-💻 Tecnologias e ferramentas em estudo:
+---
 
-Testes & QA: Testes manuais, casos de teste, cenários, relatórios de bugs
+## 💻 Tecnologias e ferramentas em estudo
 
-Automação: JavaScript, HTML, CSS, Bootstrap
+### 🧪 Testes & QA
+- Testes manuais  
+- Casos de teste  
+- Cenários de teste  
+- Relatórios de bugs  
 
-Back-end / Base: PHP
+### ⚙️ Automação
+- JavaScript  
+- HTML  
+- CSS  
+- Bootstrap  
 
-IA: Conceitos iniciais de Inteligência Artificial e Machine Learning aplicados a QA
+### 🖥️ Back-end / Base
+- PHP  
+
+### 🤖 Inteligência Artificial
+- Conceitos iniciais de Inteligência Artificial  
+- Machine Learning aplicado a QA  
+
   
 
 
