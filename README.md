@@ -1,7 +1,7 @@
 # Olá, Sou Layanne_Sousa
 - 👩‍🎓 Atualmente Formada como Técnica em Análise De Desenvolvimento Sistema.
 - ☕Iniciante na Área deste 2024,Me Aprofundando nós conceitos fundamentais desenvolvidas.
-- Linguagem: javascript,htm,css,PHP,bootstrap
+- Linguagem  que estou focando no momento: JavaScript,Htm,Css,Php,Bootstrap,IA_Trangin
   
 
 
@@ -12,6 +12,7 @@
   <img align="center" alt="lay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lay-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   <img align="center" alt="lay-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+  <img align="center" alt="lay-ai" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg">
  </div>
 
   ##
