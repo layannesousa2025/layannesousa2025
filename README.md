@@ -12,7 +12,7 @@
   <img align="center" alt="lay-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="lay-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   <img align="center" alt="lay-bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
-  <img align="center" alt="lay-robot" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/robot.svg">
+  <img align="center" alt="lay-robot" height="30" width="40"src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/robot.svg">
 
 
 
