@@ -1,7 +1,22 @@
-# Olá, Sou Layanne_Sousa
-- 👩‍🎓 Atualmente Formada como Técnica em Análise De Desenvolvimento Sistema.
-- ☕Iniciante na Área deste 2024,Me Aprofundando nós conceitos fundamentais desenvolvidas.
-- Linguagem  que estou focando no momento: JavaScript,Htm,Css,Php,Bootstrap,IA_Trangin
+#👋 Olá, sou Layanne Sousa
+
+👩‍🎓 Técnica em Análise e Desenvolvimento de Sistemas.
+
+🧪 Atuação e estudos focados em Qualidade de Software (QA), com interesse em Automação de Testes e Inteligência Artificial aplicada à qualidade.
+
+☕ Na área de tecnologia desde 2024, desenvolvendo base sólida em testes de software, lógica de programação e boas práticas de desenvolvimento.
+
+🤖 Em constante aprendizado sobre IA aplicada a testes, automação e análise de qualidade.
+
+💻 Tecnologias e ferramentas em estudo:
+
+Testes & QA: Testes manuais, casos de teste, cenários, relatórios de bugs
+
+Automação: JavaScript, HTML, CSS, Bootstrap
+
+Back-end / Base: PHP
+
+IA: Conceitos iniciais de Inteligência Artificial e Machine Learning aplicados a QA
   
 
 
