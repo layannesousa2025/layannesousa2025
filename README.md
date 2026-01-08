@@ -37,7 +37,6 @@
 
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=layannesousa2025&layout=compact&count_private=true&theme=wither-green&title_color=de3163)](#)
 
-[![Lay github stats](https://bad-apple-github-readme.vercel.app/api?username=Layannesousa2025&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=wither-green&title_color=de3163)](#)
 
   
 ## 🐍 My GitHub Snake
