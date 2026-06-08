@@ -32,7 +32,7 @@
 
 
 
-  ## 🧰 Ferramentas 
+ ## 🧰 Ferramentas 
 
  <img src="https://skillicons.dev/icons?i=html,tailwindcss,javascript,php,mysql,ai,git,github,vscode" 
  alt="Tecnologias: HTML, TailwindCSS, JavaScript, PHP, Git, GitHub, MySQL, IA" />
