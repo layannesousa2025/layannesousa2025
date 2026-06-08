@@ -44,7 +44,7 @@
   <img  align="left" alt="Git"  title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /><img 
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,tailwindcss,javascript,php,git,github,Font-Awesome"/>
+  <img src="https://skillicons.dev/icons?i=html,tailwindcss,javascript,php,git,github,python,postgresql,ai" alt="Tecnologias: HTML, TailwindCSS, JavaScript, PHP, Git, GitHub, Python, MySQL, AI" />
 </p>
 
  </div>
