@@ -32,7 +32,7 @@
 
   
 
-<img src="https://skillicons.dev/icons?i=html,tailwindcss,javascript,php,git,github,mysql,ai" 
+<img src="https://skillicons.dev/icons?i=html,tailwindcss,javascript,php,mysql,ai" 
      alt="Tecnologias: HTML, TailwindCSS, JavaScript, PHP, Git, GitHub, MySQL, IA" />
 
 
