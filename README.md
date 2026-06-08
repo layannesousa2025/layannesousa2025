@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=html,tailwindcss,javascript,php,mysql,ai" 
+<img src="https://skillicons.dev/icons?i=html,tailwindcss,javascript,php,mysql,ai,git,github,vccode" 
      alt="Tecnologias: HTML, TailwindCSS, JavaScript, PHP, Git, GitHub, MySQL, IA" />
 
 
