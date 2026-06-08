@@ -33,11 +33,8 @@
   
 
 <img src="https://skillicons.dev/icons?i=html,tailwindcss,javascript,php,git,github,python,mysql,ai" 
-     alt="Tecnologias: HTML, TailwindCSS, JavaScript, PHP, Git, GitHub, Python, MySQL, IA" />
- 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,tailwindcss,javascript,php,git,github,python,postgresql,ai" alt="Tecnologias: HTML, TailwindCSS, JavaScript, PHP, Git, GitHub, Python, MySQL, AI" />
-</p>
+     alt="Tecnologias: HTML, TailwindCSS, JavaScript, PHP, Git, GitHub, MySQL, IA" />
+
 
  </div>
 
