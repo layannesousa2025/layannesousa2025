@@ -73,7 +73,7 @@
   
 ## 🐍 My GitHub Snake
 
-![Snake animation](https://raw.githubusercontent.com/EdielsonSolidade/EdielsonSolidade/output/github-contribution-grid-snake-radical.svg)
+<img src="https://raw.githubusercontent.com/wagnerpessoadev/wagnerpessoadev/output/snake.svg" alt="Snake animation" />
 
 
 
