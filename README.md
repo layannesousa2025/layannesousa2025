@@ -9,6 +9,7 @@
 
 🔭 Atualmente aprofundando conhecimentos em **automação de testes** e **arquitetura de aplicações fullstack**.
 
+🔗 layanneportf-lio-1.vercel.app 
 ---
 
 ## 💻 Tecnologias e ferramentas
