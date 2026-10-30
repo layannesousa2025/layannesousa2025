@@ -1,4 +1,4 @@
-# 👾 𝕆𝕝á, 𝕤𝕠𝕦 𝕃𝕒𝕪𝕒𝕟𝕟𝕖 𝕊𝕠𝕦𝕤𝕒
+# 🐞 𝕆𝕝á, 𝕤𝕠𝕦 𝕃𝕒𝕪𝕒𝕟𝕟𝕖 𝕊𝕠𝕦𝕤𝕒
 
 ☕ No Mundo Da Tecnologia desde **2024**, Com Graduação em Andamento "ADS" Instituição Estácio (2024-2026).
 
