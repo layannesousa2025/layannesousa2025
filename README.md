@@ -6,7 +6,7 @@
 
 Formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAC-DF (2024–2025), com conhecimentos em desenvolvimento Full Stack e experiência prática na criação de projetos e aplicações Web, Desktop e Mobile. Aplicando conhecimentos técnicos em desenvolvimento de software, programação e soluções tecnológicas.
 
-🤖 Em constante evolução e aprimoramento profissional, com foco em desenvolvimento Front-end e aplicações Web. Possuo conhecimentos em UX, bancos de dados relacionais (MySQL), automação de processos e testes de software, buscando sempre desenvolver soluções eficientes, funcionais e com boa experiência para o usuário.
+🤖 Em constante evolução e aprimoramento profissional, com foco em desenvolvimento Front-end e aplicações Web. Possuo conhecimentos em UX/UI, bancos de dados relacionais (MySQL), automação de processos e testes de software, buscando sempre desenvolver soluções eficientes, funcionais e com boa experiência para o usuário.
 
 ⭐ Com o objetivo de aprofundar meus conhecimentos em desenvolvimento de software utilizando Inteligência Artificial, explorando novas tecnologias e soluções inovadoras para o futuro.
 
