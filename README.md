@@ -1,4 +1,4 @@
-# 🕹️ 𝗢𝗹á, 𝘀𝗼𝘂 𝗟𝗮𝘆𝗮𝗻𝗻𝗲 𝗦𝗼𝘂𝘀𝗮
+# 👾 𝕆𝕝á, 𝕤𝕠𝕦 𝕃𝕒𝕪𝕒𝕟𝕟𝕖 𝕊𝕠𝕦𝕤𝕒
 👩‍💻 **Desenvolvedora Fullstack** | 🧪 **Foco em Qualidade de Software (QA) e Automação de Testes**
 
 🎓 Técnica em Análise e Desenvolvimento de Sistemas, unindo desenvolvimento de aplicações web (front-end e back-end) com uma base sólida em **testes de software**, garantindo qualidade em todas as etapas do ciclo de desenvolvimento.
