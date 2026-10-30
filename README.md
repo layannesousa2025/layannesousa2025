@@ -1,13 +1,14 @@
 # 👾 𝕆𝕝á, 𝕤𝕠𝕦 𝕃𝕒𝕪𝕒𝕟𝕟𝕖 𝕊𝕠𝕦𝕤𝕒
-👩‍💻 **Desenvolvedora Fullstack** | 🧪 **Foco em Qualidade de Software (QA) e Automação de Testes**
 
-🎓 Técnica em Análise e Desenvolvimento de Sistemas, unindo desenvolvimento de aplicações web (front-end e back-end) com uma base sólida em **testes de software**, garantindo qualidade em todas as etapas do ciclo de desenvolvimento.
+☕ No Mundo Da Tecnologia desde **2024**, Com Graduação em Andamento "ADS" Instituição Estácio (2024-2026).
 
-☕ Na área de tecnologia desde **2024**, construindo experiência prática em **desenvolvimento web, lógica de programação, testes manuais/automatizados e boas práticas de engenharia de software**.
+🎓 ### 💻 Experiência Técnica
 
-🤖 Em constante evolução, estudando **IA aplicada à qualidade de software**, automação de testes e machine learning voltado para QA.
+Formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAC-DF (2024–2025), com conhecimentos em desenvolvimento Full Stack e experiência prática na criação de projetos e aplicações Web, Desktop e Mobile. Aplicando conhecimentos técnicos em desenvolvimento de software, programação e soluções tecnológicas.
 
-🔭 Atualmente aprofundando conhecimentos em **automação de testes** e **arquitetura de aplicações fullstack**.
+🤖 Em constante evolução e aprimoramento profissional, com foco em desenvolvimento Front-end e aplicações Web. Possuo conhecimentos em UX, bancos de dados relacionais (MySQL), automação de processos e testes de software, buscando sempre desenvolver soluções eficientes, funcionais e com boa experiência para o usuário.
+
+⭐ Com o objetivo de aprofundar meus conhecimentos em desenvolvimento de software utilizando Inteligência Artificial, explorando novas tecnologias e soluções inovadoras para o futuro.
 
 🔗 **Acesse meu portfólio:** [Layanne - Portfólio](https://layanneportf-lio-1.vercel.app)
 
@@ -24,7 +25,7 @@
 - PHP
 - MySQL
 
-### 🧪 Qualidade de Software (QA)
+### 🧪 Qualidade de Software 
 - Testes manuais
 - Elaboração de casos e cenários de teste
 - Relatórios e rastreamento de bugs
@@ -33,7 +34,7 @@
 
 ### 🤖 Inteligência Artificial
 - Conceitos fundamentais de IA
-- Machine Learning aplicado a QA
+- Machine Learning aplicado 
 - IA como apoio à automação e análise de qualidade
 
 ### 🛠️ Ferramentas de trabalho
