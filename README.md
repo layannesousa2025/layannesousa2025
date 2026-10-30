@@ -1,4 +1,7 @@
-# 🐞 𝕆𝕝á, 𝕤𝕠𝕦 𝕃𝕒𝕪𝕒𝕟𝕟𝕖 𝕊𝕠𝕦𝕤𝕒
+# 🐞 𝕆𝕝á, 𝕤𝕖𝕛𝕒 𝕓𝕖𝕞-𝕧𝕚𝕟𝕕𝕠(𝕒) 𝕒𝕠 𝕞𝕖𝕦 𝔾𝕚𝕥ℍ𝕦𝕓! 👩‍💻
+
+### 🚀 𝔼𝕦 𝕤𝕠𝕦 𝕃𝕒𝕪𝕒𝕟𝕟𝕖 𝕊𝕠𝕦𝕤𝕒!
+💻 Desenvolvedora em constante evolução, apaixonada por tecnologia, programação e inovação.
 
 ☕ No Mundo Da Tecnologia desde **2024**, Com Graduação em Andamento "ADS" Instituição Estácio (2024-2026).
 
