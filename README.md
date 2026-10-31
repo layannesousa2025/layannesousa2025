@@ -11,7 +11,9 @@ Formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAC-DF (202
 
 💻 **Projeto de Desenvolvimento Web – SENAC**
 
-Projeto desenvolvido durante minha formação no SENAC, com foco na criação de aplicações Web, aplicando conhecimentos de desenvolvimento Front-end, estruturação de páginas, organização de interfaces e boas práticas de programação. A experiência proporcionou o aprimoramento das minhas habilidades técnicas e práticas no desenvolvimento de soluções digitais.
+💻 **Projetos de Desenvolvimento Web – SENAC**
+
+Durante minha formação no SENAC, participei do desenvolvimento dos projetos **Sintex** e **ChampionsSports**, sendo responsável pela criação e desenvolvimento de páginas Web. Nesses projetos, apliquei conhecimentos de desenvolvimento Front-end, estruturação de páginas, construção de interfaces e boas práticas de programação, contribuindo para a criação de soluções digitais funcionais e intuitivas.
 
 🤖 **Em constante evolução e aprimoramento profissional**, atualmente estou direcionando meus estudos e conhecimentos para o desenvolvimento de aplicações Web, com foco em **Front-end**. Tenho interesse e conhecimentos em UX/UI Design, criação de protótipos no Figma, bancos de dados relacionais (MySQL – nível básico), automação de processos e testes de software. Busco constantemente aprimorar minhas habilidades e desenvolver soluções eficientes, funcionais e intuitivas, proporcionando uma experiência cada vez melhor aos usuários.
 
