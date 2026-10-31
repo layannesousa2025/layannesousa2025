@@ -9,8 +9,6 @@
 
 Formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAC-DF (2024–2025), com conhecimentos em desenvolvimento Full Stack e experiência prática na criação de projetos e aplicações Web, Desktop e Mobile. Aplicando conhecimentos técnicos em desenvolvimento de software, programação e soluções tecnológicas.
 
-💻 **Projeto de Desenvolvimento Web – SENAC**
-
 💻 **Projetos de Desenvolvimento Web – SENAC**
 
 Durante minha formação no SENAC, participei do desenvolvimento dos projetos **Sintex** e **ChampionsSports**, sendo responsável pela criação e desenvolvimento de páginas Web. Nesses projetos, apliquei conhecimentos de desenvolvimento Front-end, estruturação de páginas, construção de interfaces e boas práticas de programação, contribuindo para a criação de soluções digitais funcionais e intuitivas.
