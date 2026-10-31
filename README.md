@@ -9,7 +9,7 @@
 
 Formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAC-DF (2024–2025), com conhecimentos em desenvolvimento Full Stack e experiência prática na criação de projetos e aplicações Web, Desktop e Mobile. Aplicando conhecimentos técnicos em desenvolvimento de software, programação e soluções tecnológicas.
 
-🤖 Em constante evolução e aprimoramento profissional, no momento estou focando mais no desenvolvimento aplicações Web "Front-end". abrangendo UX/UI Prototipo Figma, bancos de dados relacionais (MySQL) Básico, automação de processos e testes de software, buscando sempre desenvolver soluções eficientes, funcionais e com boa experiência para o usuário.
+🤖 **Em constante evolução e aprimoramento profissional**, atualmente estou direcionando meus estudos e conhecimentos para o desenvolvimento de aplicações Web, com foco em **Front-end**. Tenho interesse e conhecimentos em UX/UI Design, criação de protótipos no Figma, bancos de dados relacionais (MySQL – nível básico), automação de processos e testes de software. Busco constantemente aprimorar minhas habilidades e desenvolver soluções eficientes, funcionais e intuitivas, proporcionando uma experiência cada vez melhor aos usuários.
 
 ⭐ Com o objetivo de aprofundar meus conhecimentos em desenvolvimento de software utilizando Inteligência Artificial, explorando novas tecnologias e soluções inovadoras para o futuro.
 
