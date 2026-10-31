@@ -13,7 +13,7 @@ Formação técnica em Análise e Desenvolvimento de Sistemas pelo SENAC-DF (202
 
 Durante minha formação no SENAC, participei do desenvolvimento dos projetos **Sintex** e **ChampionsSports**, sendo responsável pela criação e desenvolvimento de páginas Web. Nesses projetos, apliquei conhecimentos de desenvolvimento Front-end, estruturação de páginas, construção de interfaces e boas práticas de programação, contribuindo para a criação de soluções digitais funcionais e intuitivas.
 
-🤖 **Em constante evolução e aprimoramento profissional**, atualmente estou direcionando meus estudos e conhecimentos para o desenvolvimento de aplicações Web, com foco em **Front-end**. Tenho interesse e conhecimentos em UX/UI Design, criação de protótipos no Figma, bancos de dados relacionais (MySQL – nível básico), automação de processos e testes de software. Busco constantemente aprimorar minhas habilidades e desenvolver soluções eficientes, funcionais e intuitivas, proporcionando uma experiência cada vez melhor aos usuários.
+🤖 **Em constante evolução e aprimoramento profissional**, atualmente estou direcionando meus estudos e conhecimentos para o desenvolvimento de aplicações Web, com foco em **Front-end**. Tenho interesse e conhecimentos em UX/UI Design, criação de protótipos no Figma, bancos de dados relacionais (MySQL – nível básico), linguagem de programação básico "php", automação de processos e testes de software. Busco constantemente aprimorar minhas habilidades e desenvolver soluções eficientes, funcionais e intuitivas, proporcionando uma experiência cada vez melhor aos usuários.
 
 ⭐ Com o objetivo de aprofundar meus conhecimentos em desenvolvimento de software utilizando Inteligência Artificial, explorando novas tecnologias e soluções inovadoras para o futuro.
 
