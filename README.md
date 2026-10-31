@@ -3,7 +3,7 @@
 ### 🚀 𝔼𝕦 𝕤𝕠𝕦 𝕃𝕒𝕪𝕒𝕟𝕟𝕖 𝕊𝕠𝕦𝕤𝕒!
 💻 Desenvolvedora em constante evolução, apaixonada por tecnologia, programação e inovação.
 
-☕ No Mundo Da Tecnologia Desde **2024**, Com Graduação em Andamento **"ADS"** Pela Instituição Estácio (2024-2026).
+☕ Graduação em Andamento **"ADS"** Pela Instituição Estácio (2024-2026).
 
 🎓 ### 💻 Experiência Técnica
 
